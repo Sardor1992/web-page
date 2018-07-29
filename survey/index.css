@@ -1,0 +1,108 @@
+body{
+    color: white;
+    background-color: rgb(10, 10, 30);
+    font-family: 'Raleway', Helvetica, sans-serif;
+    text-align: center;
+  }
+  
+  p{
+    display: block;
+    text-align: center;
+  }
+  
+  #first-div{
+    width: 80%;
+    background-color: rgb(200, 200, 170);
+    color: black;
+    margin:  auto;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-bottom: 15px;
+    margin-right: auto;
+    border-radius: 2px;
+    padding: 10px;
+    padding-top: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+  }
+  
+  .labels{
+      display: inline-block;
+      text-align: left;
+      width: 40%;
+      padding: 5px;
+      padding-top: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      padding-left: 5px;
+      vertical-align: top;
+      margin-top: 10px;
+  }
+  
+  .rightSide{
+    display: inline-block;
+      text-align: left;
+      width: 50%;
+  }
+  
+  .input-field{
+    display: inline-block;
+    height: 18px;
+    border-radius: 2px;
+    border: solid 1px grey;
+      padding: 7px;
+      padding-top: 7px;
+      padding-right: 7px;
+      padding-bottom: 7px;
+      padding-left: 7px;
+      margin: 15px;
+      margin-left: 15px;
+      margin-right: 15px;
+      margin-top: 15px;
+      margin-bottom: 15px;
+  }
+  
+  .dropdown{
+    display: inline-block;
+    height: 35px;
+    width: 150px;
+    border-radius: 2px;
+    border: solid 1px grey;
+      padding: 7px;
+      padding-top: 7px;
+      padding-right: 7px;
+      padding-bottom: 7px;
+      padding-left: 7px;
+      margin: 15px;
+      margin-left: 15px;
+      margin-right: 15px;
+      margin-top: 20px;
+      margin-bottom: 15px;
+  }
+  
+  .checkbox{
+    position: relative;
+    left: -30px;
+    display: block;
+    padding-bottom: 7px;
+  }
+  
+  .radio{
+    position: relative;
+    left: -30px;
+    display: block;
+    padding-bottom: 7px;
+  }
+  
+  #submit{
+    background-color: #59ace0;
+    border-radius: 4px;
+      color: white;
+      font-size: 1em;
+      height: 40px;
+      width: 96px;
+      margin: 10px;
+      border: 0px solid;
+    cursor: pointer;
+  }
